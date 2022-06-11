@@ -1,0 +1,20 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bel-sndct/file_manager.git"
+  },
+  "author": "bel-sndct",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bel-sndct/file_manager/issues"
+  },
+  "homepage": "https://github.com/bel-sndct/file_manager#readme"
+}
